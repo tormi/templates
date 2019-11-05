@@ -19,3 +19,4 @@ To update only Drupal core without any modules or themes, use:
 - <https://github.com/pantheon-systems/example-drops-8-composer>
 - <https://github.com/palantirnet/drupal-skeleton>
 - <https://github.com/skilld-labs/skilld-docker-container>
+- <https://dev.docs.agile.coop/docs/environment/setup-new/>
