@@ -6,3 +6,4 @@
 - <https://github.com/wunderio/drupal-project>
 - <https://github.com/pantheon-systems/example-drops-8-composer>
 - <https://github.com/palantirnet/drupal-skeleton>
+- <https://github.com/skilld-labs/skilld-docker-container>
