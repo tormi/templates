@@ -17,6 +17,7 @@ To update only Drupal core without any modules or themes, use:
 - <https://github.com/drupal-composer/drupal-project>
 - <https://github.com/wunderio/drupal-project>
 - <https://github.com/thinktandem/template-drupal8>
+- <https://github.com/lando/lando-pantheon-ci-workflow-example>
 - <https://github.com/pantheon-systems/example-drops-8-composer>
 - <https://github.com/palantirnet/drupal-skeleton>
 - <https://github.com/skilld-labs/skilld-docker-container>
